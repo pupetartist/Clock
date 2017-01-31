@@ -1,0 +1,15 @@
+{
+  "name": "clock_challenge",
+  "version": "1.0.1",
+  "description": "App for Critical challenge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/pupetartist/Clock.git)"
+  },
+  "author": "Eduardo Landa <emilianolandare@gmail.com>",
+  "license": "ISC"
+}
